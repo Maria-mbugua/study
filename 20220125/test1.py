@@ -1,4 +1,4 @@
-#define price variable
+#define price variables
 var_jeans_price=4500
 var_tshirt_price=2500
 

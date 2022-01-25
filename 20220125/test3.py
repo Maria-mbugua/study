@@ -1,4 +1,4 @@
-#jane is to pay 50 ksh
+#jane is to pay 50 kshs
 #anything above 50 split to 100s and 50s
 
 

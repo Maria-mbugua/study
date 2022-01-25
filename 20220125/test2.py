@@ -1,4 +1,4 @@
-#1000 kes invest with 10% return each
+#1000 kes invest with 10% returns each
 #one year = 1000x1.1 
 # two years = 1000x 1.1 x 1.1
 #7 years ?
